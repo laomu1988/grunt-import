@@ -28,8 +28,8 @@ grunt-import
   
   在需要引入的css和js标签上添加属性import="import",则输出的网页将自动改为页内引用.
   例如：
-  <link href="css/mian.css" import="import" />
-  <script src="test.js" import="import"></script>
+  &lt;link href="css/mian.css" import="import" />
+  &lt;script src="test.js" import="import">&lt;/script>
 
 ### 特别注意
 
