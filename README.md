@@ -30,6 +30,7 @@ grunt-import
   
   例如：
   &lt;link href="css/mian.css" import="import" />
+  <br />
   &lt;script src="test.js" import="import">&lt;/script>
 
 ### 特别注意
